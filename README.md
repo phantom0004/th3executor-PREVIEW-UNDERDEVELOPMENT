@@ -1,6 +1,8 @@
 # th3executor - PREVIEW-UNDERDEVELOPMENT
 ![image](https://github.com/user-attachments/assets/1fe262d0-011a-4abe-b098-a194b630ba35)
+![th3executor-shell-demo](https://github.com/user-attachments/assets/7cdeec2f-3650-4e0e-a6c7-d4afef61a642)
 
+---
 Welcome to **th3executor**, a remote administration tool (RAT) designed for both Windows and Linux operating systems. This repository serves as a preview and development update platform for th3executor, providing sneak peeks and progress updates for the community. Please note that the full source code is not disclosed here and will be released in a new repository once development is complete.
 
 ## Project Overview
