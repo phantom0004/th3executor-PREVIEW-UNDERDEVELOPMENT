@@ -4,7 +4,7 @@ Th3executor Main Menu:
 
 ![image](https://github.com/user-attachments/assets/1fe262d0-011a-4abe-b098-a194b630ba35)
 
-Reverse Shell Demonstration (snippet):
+Demo Usage:
 
 ![th3executor-shell-demo](https://github.com/user-attachments/assets/7cdeec2f-3650-4e0e-a6c7-d4afef61a642)
 
