@@ -11,21 +11,27 @@ Welcome to **th3executor**, a remote administration tool (RAT) designed for both
 
 The project is currently under active development, with significant updates and enhancements being made. As I continue to refine and improve th3executor, I want to keep the community engaged and informed about the progress. Being the only developer, and engaging in many things I have never done, this is a steep project, but commitment is what keeps me going, and I am determined to finish this.
 
+## Why only a preview?
+
+I cannot release the program yet due to its current heavy development stage. Developing such an extensive program that caters to two operating systems can be quite challenging, especially for someone who isn't a professional. However, I assure you that the time spent waiting will be worth it. I am not just creating but thoroughly testing and ensuring quality content. You will soon see:
+
+- A sophisticated payload that can be converted to an executable (with code obfuscation techniques)
+- An extensive command and control server that seamlessly interacts with the payload in a fast and secure manner
+- A comprehensive setup script that handles pip installations, payload conversions, and source code modification
+
+Stay tuned to this repository for updates! Once the time comes, a new repository will be created with the entire source code, examples, and much more content. I appreciate all the activity <3
+
 ## Preview and Updates
 
 This repository will provide:
 
 - **Sneak Peeks**: Get an early look at new features and updates as they are being developed.
 - **Development Updates**: Stay informed about the progress and milestones achieved.
-- **Community Feedback**: I welcome feedback and suggestions to help improve th3executor.
+- **Community Feedback**: I welcome feedback and suggestions to help improve th3executor (with issues :) ).
 
 ## Future Plans
 
 Once development is complete, a new repository will be created where the full source code and all related files will be made available. This current preview repository will be deleted after the project is finished and fully released.
-
-## Get Involved
-
-While the full source code is not yet available, we encourage you to follow this repository for updates and provide feedback on our progress. Your insights and suggestions are valuable in shaping the final product.
 
 ## Contact
 
@@ -34,5 +40,7 @@ For any questions, feedback, or to stay in touch with the development team (me <
 ## License
 
 Details about the licensing will be provided upon the project's completion and release in the new repository.
+
+---
 
 Thank you for your interest in th3executor, and I look forward to sharing my progress with you!
